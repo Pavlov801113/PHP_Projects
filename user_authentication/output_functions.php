@@ -165,7 +165,7 @@ function display_user_urls($url_array) {
   
   function display_add_bm_form() {
   ?>
-  <form name="bm_table" action="add_bms.php" method="post">
+  <form name="bm_table" action="add_bookmark.php" method="post">
   
    <div class="formblock">
       <h2>New Bookmark</h2>
